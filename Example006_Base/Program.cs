@@ -12,4 +12,5 @@ if (c > max) max = c;
 if (d > max) max = d;
 if (e > max) max = e;
 
+Console.WriteLine(a + ", " + b + ", " + c + ", " + d + ", " + e);
 Console.WriteLine("Maximum = " + max);
